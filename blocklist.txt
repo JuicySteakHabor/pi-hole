@@ -6,19 +6,8 @@
 c1p8jf2alk3n1p.credentials.iot.us-east-1.amazonaws.com
 firehose.us-east-1.amazonaws.com
 api-global.netflix.com
-discovery.meethue.com
-cdn-0.nflximg.com
-ipv6.cws.conviva.com
 nrdp.prod.cloud.netflix.com
-vod-akc-na-central-1.media.dssott.com
-us.lgtvsdp.com
-aic-connect-client.lgthinq.com
-hiveplayer-static.bamgrid.com
 logs.netflix.com
-avsxappcaptiveportal.com
-config-cd-dmgz.bamgrid.com
-varnish03-c06-ord1-dss-vod-dssc-shield.tr.na.prod.dssedge.com
-us-east-2.ads.digital.disneyadvertising.com
 
 
 ## END ##
